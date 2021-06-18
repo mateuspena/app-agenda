@@ -45,5 +45,5 @@ Através do link que se segue é possível ter acesso interativo a todas as tela
 - [Comparativo de aplicações correlatas](AplicaçõesCorrelatas/ComparativoAplicaçõesCorrelatas.pdf)
 
 ## Equipe
-- Luana Gomes
-- Mateus Pena
+- Luana Cruz Gomes
+- Mateus Pena Machado de Jesus
