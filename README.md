@@ -40,9 +40,20 @@ Através do link que se segue é possível ter acesso interativo a todas as tela
 | ![](ProtótipoAltaFidelidade/7.PNG) |
 | ![](ProtótipoAltaFidelidade/8.PNG) |
 
+## Diagrama de Atividade UML
+|   |
+| :------------: |
+| ![](Diagramas/Diagramas-AtividadeUML.png) |
+
+## Diagrama de Casos de Uso UML
+|   |
+| :------------: |
+| ![](Diagramas/Diagramas-CasosUsoUML.png) |
+
 ## Aplicações Correlatas
 - [Estudo de aplicações correlatas](AplicaçõesCorrelatas/EstudoAplicaçõesCorrelatas.pdf)
 - [Comparativo de aplicações correlatas](AplicaçõesCorrelatas/ComparativoAplicaçõesCorrelatas.pdf)
+- [Relatório da aplicação](Relatorio/Relatório.pdf)
 
 ## Equipe
 - Luana Cruz Gomes
