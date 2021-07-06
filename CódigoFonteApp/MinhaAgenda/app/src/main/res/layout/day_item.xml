@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="96dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/activity_main"
+    android:id="@+id/card_view">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp">
+
+        <TextView
+            android:id="@+id/txt_day"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            tools:text="Domingo" />
+
+        <TextView
+            android:id="@+id/txt_date"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_day"
+            android:layout_alignStart="@id/txt_day"
+            android:textSize="20sp"
+            android:textColor="@android:color/darker_gray"
+            tools:text="5 de Setembro de 2021"/>
+
+        <TextView
+            android:id="@+id/img_carga"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/ic_baseline_notifications_none_24"
+            tools:text=" "/>
+
+        <TextView
+            android:id="@+id/img_feriado"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginEnd="36dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/ic_baseline_beach_access_24"
+            tools:text=" "/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

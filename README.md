@@ -55,6 +55,16 @@ Através do link que se segue é possível ter acesso interativo a todas as tela
 - [Comparativo de aplicações correlatas](AplicaçõesCorrelatas/ComparativoAplicaçõesCorrelatas.pdf)
 - [Relatório da aplicação](Relatorio/Relatório.pdf)
 
+## Mobile - Resumo
+|   |   |
+| :-: | :-: |
+| Interface em Material Design | **OK** |
+| Internacionalização | **OK** |
+| Permissão e Preferencias | **OK** |
+| Google Analytic | **OK** |
+| Comunicação com Servidor (Json) | **OK** |
+| Persistência em SqlLite | **OK** |
+
 ## Equipe
 - Luana Cruz Gomes
 - Mateus Pena Machado de Jesus

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Minha Agenda</string>
+    <string name="title_activity_novo_compromisso">Novo Compromisso</string>
+    <string name="txt_title">Título</string>
+    <string name="txt_descricao">Descrição</string>
+    <string name="txt_data">Data</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="txt_hora">Horário</string>
+    <string name="txt_carregando_splash">Carregando...</string>
+    <string name="txt_obtendo_dados_splash">Obtendo dados...</string>
+    <string name="txt_dia_domingo">Domingo</string>
+    <string name="txt_dia_segunda">Segunda</string>
+    <string name="txt_dia_terca">Terça</string>
+    <string name="txt_dia_quarta">Quarta</string>
+    <string name="txt_dia_quinta">Quinta</string>
+    <string name="txt_dia_sexta">Sexta</string>
+    <string name="txt_dia_sabado">Sábado</string>
+</resources>

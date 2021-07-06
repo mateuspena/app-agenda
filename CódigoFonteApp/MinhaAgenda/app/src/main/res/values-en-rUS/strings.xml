@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Schedule</string>
+    <string name="txt_hora">Hour</string>
+    <string name="btn_confirmar">Confirm</string>
+    <string name="txt_data">Date</string>
+    <string name="txt_descricao">Description</string>
+    <string name="txt_title">Title</string>
+    <string name="title_activity_novo_compromisso">New Appointment</string>
+    <string name="txt_carregando_splash">Loading...</string>
+    <string name="txt_obtendo_dados_splash">Fetching data...</string>
+    <string name="txt_dia_domingo">Sunday</string>
+    <string name="txt_dia_segunda">Monday</string>
+    <string name="txt_dia_terca">Tuesday</string>
+    <string name="txt_dia_quarta">Wednesday</string>
+    <string name="txt_dia_quinta">Thursday</string>
+    <string name="txt_dia_sexta">Friday</string>
+    <string name="txt_dia_sabado">Saturday</string>
+</resources>
