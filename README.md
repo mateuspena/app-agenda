@@ -65,6 +65,14 @@ Através do link que se segue é possível ter acesso interativo a todas as tela
 | Comunicação com Servidor (Json) | **OK** |
 | Persistência em SqlLite | **OK** |
 
+## Api Feriados
+> [http://www.calendario.com.br/api_feriados_municipais_estaduais_nacionais.php](http://www.calendario.com.br/api_feriados_municipais_estaduais_nacionais.php "Calendario.com.br")
+
+|   |
+| :------------: |
+| ![](ApiCalendario/ApiCalendario.png) |
+
+
 ## Equipe
 - Luana Cruz Gomes
 - Mateus Pena Machado de Jesus
