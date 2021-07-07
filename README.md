@@ -70,7 +70,7 @@ Através do link que se segue é possível ter acesso interativo a todas as tela
 
 |   |
 | :------------: |
-| ![](ApiCalendario/ApiCalendario.png) |
+| ![](ApiCalendario/ApiCalendario.PNG) |
 
 
 ## Equipe
